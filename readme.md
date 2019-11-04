@@ -12,7 +12,7 @@ For any general question about the course, use GitHub issues. Before posting, pl
 
 **Plan**:  14 Oct 2019 - 9 Feb 2020, 15 weeks, 4hr/week, 15 weeks, 60hr.  
 
-**Lectures**:  [__**NEWS**__] Tuesdays 14:15-16pm at TTR2 in Cyber Valley Campus.   
+**Lectures**:  Tuesdays 14:15-16pm at TTR2 in Cyber Valley Campus.   
 
 **Tutorials**: Wednesdays 16:15-18pm  at TTR2 in Cyber Valley Campus.   
 
