@@ -20,7 +20,7 @@ For any general question about the course, use GitHub issues. Before posting, pl
 
 For the EXAM, NEED to officially register  either via Campus / ALMA or written if the student cannot register online (closer to the exam date).  
 
-**Grading** : Maximum between 70\% written exam + 30\% assignments, or 100\% exam.   
+**Grading** : Maximum between 70\% written exam+30\% assignments and 100\% exam.   
 
 *  1st assignment* (corresponding to Block I) due to December 13th. For questions, contact Pablo Sanchez using the email address: pablo [dot] sanchez-martin [at] tuebingen.mpg.de)
 
