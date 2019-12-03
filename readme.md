@@ -51,8 +51,8 @@ For the EXAM, NEED to officially register  either via Campus / ALMA or written i
 8.  **TAP approximation** (3 Dec)
     * _Reference_: AMFM
 9.  **Bethe Approximation and Belief Propagation** (10 Dec)
-    * _Reference_: MM
-10. **Spin glass planted (BP) and SBM ** (17 Dec)
+    * _Reference_: MM . 
+10. **Spin glass planted (BP) and SBM** (17 Dec)
 11. **MM-SBM + EM/BP**  (7 Jan)
 
 ### BLOCK III:
