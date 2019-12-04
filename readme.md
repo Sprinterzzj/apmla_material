@@ -24,7 +24,7 @@ For the EXAM, NEED to officially register  either via Campus / ALMA or written i
 
  1. **1st assignment** (corresponding to Block I) due to December 13th. For questions, contact [Pablo Sanchez](mailto:pablo.sanchez-martin@tuebingen.mpg.de).
 
- 2. **2nd assignment** (corresponding to Block II) due to January 17th. For questions, contact [Nicolo Ruggeri](mailto:nicolo.ruggeri@tuebingen.mpg.de).
+ 2. **2nd assignment** (corresponding to Block II) due to January 17th. For questions, contact [Nicolò Ruggeri](mailto:nicolo.ruggeri@tuebingen.mpg.de).
 
  3. **3rd assignment** (corresponding to Block III) due to February (date to be fixed).
 
