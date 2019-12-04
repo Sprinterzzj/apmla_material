@@ -22,15 +22,15 @@ For the EXAM, NEED to officially register  either via Campus / ALMA or written i
 
 **Grading** : Maximum between 70\% written exam+30\% assignments and 100\% exam.   
 
-*  1st assignment* (corresponding to Block I) due to December 13th. For questions, contact Pablo Sanchez using the email address: pablo [dot] sanchez-martin [at] tuebingen.mpg.de)
+ 1. **1st assignment** (corresponding to Block I) due to December 13th. For questions, contact [Pablo Sanchez](mailto:pablo.sanchez-martin@tuebingen.mpg.de).
 
- *  2nd assignment* (corresponding to Block II) due to January 17th.
+ 2. **2nd assignment** (corresponding to Block II) due to January 17th. For questions, contact [Nicolò Ruggeri](mailto:nicolo.ruggeri@tuebingen.mpg.de).
 
- * 3rd assignment* (corresponding to Block III) due to February (date to be fixed).
+ 3. **3rd assignment** (corresponding to Block III) due to February (date to be fixed).
 
-*Every assignment is composed by several exercises, which will be released sequentially before every tutorial session. Information about assignment submission will be provided later in time but It will be made electronically. 
+* Every assignment is composed by several exercises, which will be released sequentially before every tutorial session. Information about assignment submission will be provided later in time but it will be made electronically. 
 
-*Assignment may be done and submitted in groups of up to 3 people (optional). 
+* Assignment may be done and submitted in groups of up to 3 people (optional). 
 
 ### Tentative program and schedule
 
