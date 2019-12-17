@@ -26,7 +26,7 @@ For the EXAM, NEED to officially register  either via Campus / ALMA or written i
 
 	**Submission link:** https://forms.gle/MEfHGXtubda96Jee9 
 
- 2. **2nd assignment** (corresponding to Block II) due to January 17th. For questions, contact [Nicolò Ruggeri](mailto:nicolo.ruggeri@tuebingen.mpg.de).
+ 2. **2nd assignment** (corresponding to Block II) due to January 17th. For questions, contact [Nicolò Ruggeri](mailto:nicolo.ruggeri@tuebingen.mpg.de) or [Martina Contisciani](martina.contisciani@tuebingen.mpg.de).
 
  3. **3rd assignment** (corresponding to Block III) due to February (date to be fixed).
 
@@ -52,10 +52,10 @@ For the EXAM, NEED to officially register  either via Campus / ALMA or written i
     * _Reference_: AMFM
 8.  **TAP approximation** (3 Dec)
     * _Reference_: AMFM
-9.  **Bethe Approximation and Belief Propagation** (10 Dec)
+9.  **Bethe Approximation and Belief Propagation part I** (10 Dec)
     * _Reference_: MM  
-10. **Spin glass planted (BP) and SBM** (17 Dec)
-11. **MM-SBM + EM/BP**  (7 Jan)
+10. **Bethe Approximation and Belief Propagation part II** (17 Dec)
+11. **Spin glass planted (BP) and SBM**  (7 Jan)
 
 ### BLOCK III:
 12. **GMMs + Variational Inference (VI)** (14 Jan)
