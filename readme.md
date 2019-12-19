@@ -26,7 +26,7 @@ For the EXAM, NEED to officially register  either via Campus / ALMA or written i
 
 	**Submission link:** https://forms.gle/MEfHGXtubda96Jee9 
 
- 2. **2nd assignment** (corresponding to Block II) due to January 17th. For questions, contact [Nicolò Ruggeri](mailto:nicolo.ruggeri@tuebingen.mpg.de) or [Martina Contisciani](martina.contisciani@tuebingen.mpg.de).
+ 2. **2nd assignment** (corresponding to Block II) due to January 17th. For questions, contact [Nicolò Ruggeri](mailto:nicolo.ruggeri@tuebingen.mpg.de) or [Martina Contisciani](mailto:martina.contisciani@tuebingen.mpg.de).
 
  3. **3rd assignment** (corresponding to Block III) due to February (date to be fixed).
 
