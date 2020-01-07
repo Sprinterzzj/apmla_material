@@ -26,7 +26,8 @@ For the EXAM, NEED to officially register  either via Campus / ALMA or written i
 
 	**Submission link:** https://forms.gle/MEfHGXtubda96Jee9 
 
- 2. **2nd assignment** (corresponding to Block II) due to January 17th. For questions, contact [Nicolò Ruggeri](mailto:nicolo.ruggeri@tuebingen.mpg.de) or [Martina Contisciani](mailto:martina.contisciani@tuebingen.mpg.de).
+ 2. **2nd assignment** (corresponding to Block II) due to January 17th. For questions, contact [Nicolò Ruggeri](mailto:nicolo.ruggeri@tuebingen.mpg.de) or [Martina Contisciani](mailto:martina.contisciani@tuebingen.mpg.de).  
+  **NEWS**: updated the 7.1.20 the assignement 1 with a minor clarification (added the h term inside the TAP equations). The exercise are not changed, this was just to clarify the starting equations.
 
  3. **3rd assignment** (corresponding to Block III) due to February (date to be fixed).
 
