@@ -55,7 +55,7 @@ For the EXAM, NEED to officially register  either via Campus / ALMA or written i
 9.  **Bethe Approximation and Belief Propagation part I** (10 Dec)
     * _Reference_: MM  
 10. **Bethe Approximation and Belief Propagation part II** (17 Dec)
-11. **Spin glass planted (BP) and SBM**  (7 Jan)
+11. **SBM**  (7 Jan)
 
 ### BLOCK III:
 12. **GMMs + Variational Inference (VI)** (14 Jan)
