@@ -6,6 +6,7 @@
   A pdf version containing all this info is Courseinfo.pdf
 
 ## Course information
+**NEWS 2**: uploaded assignement 2 the 11.1.20.  
 **Lecturers**:  [Isabel Valera](https://ivaleram.github.io/) and [Caterina De Bacco](https://www.cdebacco.com/)
 
 For any general question about the course, use GitHub issues. Before posting, please make sure your question has not been previously answered. Only in case of private question, send us an email. 
