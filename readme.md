@@ -6,7 +6,8 @@
   A pdf version containing all this info is Courseinfo.pdf
 
 ## Course information
-**NEWS **: uploaded assignement 2 the 11.1.20.  
+**NEWS **: uploaded assignement 2 (Block II) the 11.1.20.  
+**Due date** to submit (link to be added) the assignement 1 and 2 of Block II is **January 31st 2020**.
 
 **Lecturers**:  [Isabel Valera](https://ivaleram.github.io/) and [Caterina De Bacco](https://www.cdebacco.com/)
 
@@ -28,9 +29,9 @@ For the EXAM, NEED to officially register  either via Campus / ALMA or written i
 
 	**Submission link:** https://forms.gle/MEfHGXtubda96Jee9 
 
- 2. **2nd assignment** (corresponding to Block II) due on **January 31th** (_updated on 11.1.20_). For questions, contact [Nicolò Ruggeri](mailto:nicolo.ruggeri@tuebingen.mpg.de) or [Martina Contisciani](mailto:martina.contisciani@tuebingen.mpg.de).  
-  **NEWS 1**: updated the 7.1.20 the assignement 1 with a minor clarification (added the h term inside the TAP equations). The exercise are not changed, this was just to clarify the starting equations.  
-  **NEWS 2**: uploaded assignement 2 the 11.1.20.
+ 2. **2nd assignment** (corresponding to Block II, both 1 and 2) due on **January 31th** (_updated on 11.1.20_). For questions, contact [Nicolò Ruggeri](mailto:nicolo.ruggeri@tuebingen.mpg.de) or [Martina Contisciani](mailto:martina.contisciani@tuebingen.mpg.de).  
+  **NEWS 1**: updated the 7.1.20 the assignement 1 (Block II) with a minor clarification (added the h term inside the TAP equations). The exercise are not changed, this was just to clarify the starting equations.  
+  **NEWS 2**: uploaded assignement 2 (Block II) the 11.1.20.
 
  3. **3rd assignment** (corresponding to Block III) due to February (date to be fixed).
 
