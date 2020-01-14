@@ -6,7 +6,9 @@
   A pdf version containing all this info is Courseinfo.pdf
 
 ## Course information
-**NEWS **: uploaded assignement 2 (Block II) the 11.1.20.  
+**NEWS**: uploaded assignement 2 (Block II) the 11.1.20.   
+**NEWS**: likely date for the exam: Tuesday March 3rd 2020 (venue to be decided).
+
 **Due date** to submit (link to be added) the assignement 1 and 2 of Block II is **January 31st 2020**.
 
 **Lecturers**:  [Isabel Valera](https://ivaleram.github.io/) and [Caterina De Bacco](https://www.cdebacco.com/)
