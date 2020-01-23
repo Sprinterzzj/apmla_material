@@ -21,8 +21,6 @@ For any general question about the course, use GitHub issues. Before posting, pl
 
 **Tutorials**: Wednesdays 16:15-18pm  at TTR2 in Cyber Valley Campus.   
 
-**Registration**: Register (informally) to the course if you want to receive general course and assignment information via:  https://forms.gle/eqqijGzksdtdbtus8
-
 For the EXAM, NEED to officially register  either via Campus / ALMA or written if the student cannot register online (closer to the exam date).  
 
 **Grading** : Maximum between 70\% written exam+30\% assignments and 100\% exam.   
