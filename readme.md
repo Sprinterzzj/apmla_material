@@ -6,8 +6,8 @@
   A pdf version containing all this info is Courseinfo.pdf
 
 ## Course information
-**NEWS**: uploaded assignement 2 (Block II) the 11.1.20.   
-**NEWS**: likely date for the exam: Tuesday March 3rd 2020 (venue to be decided).
+**NEWS**: _confirmed_ date for the 1st exam: **Tuesday March 3rd 2020**, lecture hall in MvL6, 14-16pm.  
+**NEWS**: _confirmed_ date for the 2nd exam: **Tuesday April 7th 2020**, lecture hall in MvL6, 14-16pm.
 
 **Due date** to submit (link to be added) the assignement 1 and 2 of Block II is **January 31st 2020**.
 
