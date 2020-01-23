@@ -9,7 +9,7 @@
 **NEWS**: _confirmed_ date for the 1st exam: **Tuesday March 3rd 2020**, lecture hall in MvL6, 14-16pm.  
 **NEWS**: _confirmed_ date for the 2nd exam: **Tuesday April 7th 2020**, lecture hall in MvL6, 14-16pm.
 
-**Due date** to submit (link to be added) the assignement 1 and 2 of Block II is **January 31st 2020**.
+**Due date** to submit (link to be added) the assignement 1 and 2 of Block II is **January 31st 2020** (submission link below).
 
 **Lecturers**:  [Isabel Valera](https://ivaleram.github.io/) and [Caterina De Bacco](https://www.cdebacco.com/)
 
