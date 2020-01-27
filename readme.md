@@ -9,7 +9,7 @@
 **NEWS**: _confirmed_ date for the 1st exam: **Tuesday March 3rd 2020**, lecture hall in MvL6, 14-16pm.  
 **NEWS**: _confirmed_ date for the 2nd exam: **Tuesday April 7th 2020**, lecture hall in MvL6, 14-16pm.   
 
-**NEWS**: No tutorial on Wednesday 28th, nut only next week. For this week, please check the Jupyter notebooks in folder "L14". On the 5th for February, we will go together over the maths and code, answering you any questions you may have.   
+**NEWS**: No tutorial on Wednesday 28th. Instead, please check the Jupyter notebooks in folder "L14". On the 5th for February, we will go together over the maths and code of the notebooks, answering you any questions you may have.   
 
 **NEWS assignement 3**: There won't be a 3rd assigment but instead we provide you with Jupyter notebooks, with examples of amortized VI and VAE. 
 
