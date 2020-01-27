@@ -7,7 +7,11 @@
 
 ## Course information
 **NEWS**: _confirmed_ date for the 1st exam: **Tuesday March 3rd 2020**, lecture hall in MvL6, 14-16pm.  
-**NEWS**: _confirmed_ date for the 2nd exam: **Tuesday April 7th 2020**, lecture hall in MvL6, 14-16pm.
+**NEWS**: _confirmed_ date for the 2nd exam: **Tuesday April 7th 2020**, lecture hall in MvL6, 14-16pm.  
+**NEWS assignement 2**: few clarifications about the assignement (following few emails we received):
+  1. The parameter `alpha` in the code is not needed, keep it as assigned per default (we introduced it to make initialization more flexible). 
+  2. The BP equations should be derived for the question (a), i.e. the uniform probability over the matching size (NOT for the question b)). 
+  3. You have the freedom to pick the values of the variables $\sigma_{ij}$, i.e. some discrete values at your choice. Of course, then the compatibility function changes based on this choice. Depending on what you choose, the _Hint_ of question b) may not be needed.  
 
 **Due date** to submit (link to be added) the assignement 1 and 2 of Block II is **January 31st 2020** (submission link below).
 
