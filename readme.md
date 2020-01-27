@@ -75,8 +75,8 @@ _Due date_: Jan 31st 2020
 ### BLOCK III:
 12. **GMMs + Variational Inference (VI)** (14 Jan)
 13. **VI + LDA** (21 Jan)
-14. **Stochastic VI** (28 Jan)
-15. **Variational Autoencoders** (4 Feb)
+14. **Advanced VI (part I): Stochastic VI and Black Box VI** (28 Jan)
+15. **Advanced VI (part II): Amortized Inference and Variational Autoencoders** (4 Feb)
     
 
 ### References
