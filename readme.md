@@ -9,6 +9,10 @@
 **NEWS**: _confirmed_ date for the 1st exam: **Tuesday March 3rd 2020**, lecture hall in MvL6, 14-16pm.  
 **NEWS**: _confirmed_ date for the 2nd exam: **Tuesday April 7th 2020**, lecture hall in MvL6, 14-16pm.   
 
+**NEWS**: No tutorial on Wednesday 28th, nut only next week. For this week, please check the Jupyter notebooks in folder "L14". On the 5th for February, we will go together over the maths and code, answering you any questions you may have.   
+
+**NEWS assignement 3**: There won't be a 3rd assigment but instead we provide you with Jupyter notebooks, with examples of amortized VI and VAE. 
+
 **NEWS assignement 2**: few clarifications about the assignement (following few emails we received):
   1. The parameter `alpha` in the code is not needed, keep it as assigned per default (we introduced it to make initialization more flexible). 
   2. The BP equations should be derived for the question (a), i.e. the uniform probability over the matching size (NOT for the question b)). 
@@ -39,7 +43,7 @@ For the EXAM, NEED to officially register  either via Campus / ALMA or written i
 
 _Due date_: Jan 31st 2020
 
- 3. **3rd assignment** (corresponding to Block III) due to February (date to be fixed).
+ 3. **3rd assignment** (corresponding to Block III) -- It won't be necessary to hand-in any result.  The Jupyter notebooks are already available in folder "L14". "
 
 * Every assignment is composed by several exercises, which will be released sequentially before every tutorial session. Information about assignment submission will be provided later in time but it will be made electronically. 
 
