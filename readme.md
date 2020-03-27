@@ -6,7 +6,9 @@
   A pdf version containing all this info is Courseinfo.pdf
 
 ## Course information
-**NEWS**: _posponed_ date for the 2nd exam (originally plabed for Tuesday April 7th 2020). **The new exam date is still to be determined (not earlier than May)**  
+**NEWS**: _posponed_ date for the 2nd exam (originally planned for Tuesday April 7th 2020). **The new exam date is still to be determined (not earlier than May).**  
+
+**NEWS**: **If you are interested in participating in the 2nd exam** and you have not received and email from us, please contact us ASAP.  
 
 **NEWS**: No tutorial on Wednesday 28th. Instead, please check the Jupyter notebooks in folder "L14". On the 5th for February, we will go together over the maths and code of the notebooks, answering you any questions you may have.   
 
